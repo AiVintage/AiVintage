@@ -52,14 +52,14 @@ Completed Data Science program in **September 2025**.
   - Preprocessed dataset (`insurance.csv`)  
   - Created scatter plots and visualized trends  
   - Trained and evaluated a linear regression model using scikit-learn  
-  [GitHub Repository](https://github.com/AiVintage/regression-projects)
+  [GitHub Repository](https://github.com/AiVintage/Linear-regression)
 
 - **Diabetes Progression Prediction (Multiple Regression)**  
   Developed a regression model to predict diabetes progression from patient data.  
   - Cleaned and scaled data (MinMaxScaler, StandardScaler)  
   - Split dataset into train/test (80/20)  
   - Trained regression model, extracted coefficients, evaluated with R² score  
-  [GitHub Repository](https://github.com/AiVintage/regression-projects)
+  [GitHub Repository](https://github.com/AiVintage/Multiple-Linear-Regression)
 
 - **Titanic Survival Prediction (Decision Trees)**  
   Trained and tuned decision tree models to predict passenger survival. Optimized hyperparameters and evaluated robustness.  
