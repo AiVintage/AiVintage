@@ -63,7 +63,7 @@ Completed Data Science program in **September 2025**.
 
 - **Titanic Survival Prediction (Decision Trees)**  
   Trained and tuned decision tree models to predict passenger survival. Optimized hyperparameters and evaluated robustness.  
-  [GitHub Repository](https://github.com/AiVintage/Titanic-DecisionTree)
+  [GitHub Repository](https://github.com/AiVintage/Decision-Trees)
 
 ---
 
