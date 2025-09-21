@@ -70,11 +70,11 @@ Completed Data Science program in **September 2025**.
 ### Data Analysis and Visualization
 - **US Arrests Exploratory Data Analysis**  
   Conducted statistical analysis of state-level crime data using Python and Pandas. Automated insights reporting into professional PDF format with Matplotlib visualizations.  
-  [GitHub Repository](https://github.com/AiVintage/US-Arrests-EDA)
+  [GitHub Repository](https://github.com/AiVintage/Application-of-Data-Visualisation)
 
 - **Automobile Dataset Analysis**  
   Performed data cleaning, feature engineering, and visualization of automobile datasets. Identified trends, anomalies, and correlations.  
-  [GitHub Repository](https://github.com/AiVintage/Automobile-EDA)
+  [GitHub Repository](https://github.com/AiVintage/Data-Analysis-Automobile-dataset)
 
 ---
 
