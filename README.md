@@ -27,7 +27,7 @@ Completed Data Science program in **September 2025**.
 
 Developed machine learning models to identify customers at risk of leaving a telecommunications company. Performed data cleaning, exploratory data analysis (EDA), feature engineering, and predictive modeling using Logistic Regression and Random Forest. Evaluated model performance and generated customer retention recommendations based on business-focused metrics.
 
-[GitHub Repository]()
+[GitHub Repository](https://github.com/AiVintage/Telco_Churn)
 
 ### Natural Language Processing (NLP)
 - **Sentiment Analysis on Text Data**  
