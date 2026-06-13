@@ -1,12 +1,3 @@
-
-
-<br/>
-
-<a href = "www.linkedin.com/in/veli-nhlapo-721351373" >
-<img align = "left" alt="Veli Nhlapo" width="22px" src= "https://media.licdn.com/dms/image/v2/D4E03AQG6rL6MCa9nGg/profile-displayphoto-scale_200_200/B4EZlTdfPsIUAY-/0/1758041866017?e=1761177600&v=beta&t=1YgWx7F2DUBCVKgoZVkDr5fNfyUAyLuDNSiMAVLYZwY" >
-
-</a> 
-
 # Hello World 👋 It's Veli also known as [AiVintage](https://github.com/AiVintage)
 
 # Veli Nhlapo – Data Science Graduate
